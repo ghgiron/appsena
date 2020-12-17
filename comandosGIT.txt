@@ -1,0 +1,8 @@
+
+Comandos para trabajar con GIT
+
+git add nombrearchivo // adiciona un archivo
+git add . // adiciona todos los archivos nuevos
+git status //verifica el estado de archivos pendientes
+git commit -m "segundo commit" // agrega al control de cambios 
+git push origin master  // sube a GitHub todos los cambios
