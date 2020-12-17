@@ -1,6 +1,9 @@
 
 Comandos para trabajar con GIT
-
+git remote add origin URL //agregar un repositorio remoto
+git remote
+git remote -v 
+git pull origin master // trae la ultima version de GitHub
 git add nombrearchivo // adiciona un archivo
 git add . // adiciona todos los archivos nuevos
 git status //verifica el estado de archivos pendientes
